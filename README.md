@@ -1,5 +1,7 @@
-Food Website Development
+# Food Website Development
 
-Edit the style.css file under the css folder
+### Things to do:
 
-Add your desired website name and logo as well if you may.
+1. Edit the style.css file under the css folder
+
+2. Add your desired website name and logo as well if you may.
